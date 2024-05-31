@@ -42,7 +42,7 @@ var swiper = new Swiper(".contents_slide", {
       pagination: {
         clickable: true,
       },
-    FreeMode:{enabled:true},
+      freeMode:{enabled:true},
       breakpoints: {
         450: { slidesPerView: 1.4,},
         500: { slidesPerView: 1.5,},
