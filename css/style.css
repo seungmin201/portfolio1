@@ -177,7 +177,7 @@ border-radius: 50%; display: none; flex-wrap: nowrap;}
     .f_right>a>img{width: 15vw;}
     .sns img{width: 5vw;}
     .menu>li{padding: 5px; font-size: 3.5vw;}
-    .logo{justify-content: left; width: 80px;}
+    .logo{ padding-left: 10px; width: 80px;}
     .logo img{width: 100%;}
     .f_menu{font-size: 10px;}
     .copy{font-size: 12px;}
